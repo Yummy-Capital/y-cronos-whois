@@ -1,0 +1,19 @@
+{
+  "name": "y-cronos-whois",
+  "version": "1.0.0",
+  "description": "Cronos Whois Resources Managed By Yummy Capital",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yummy-Capital/y-cronos-whois.git"
+  },
+  "author": "Yummy Capital <contact@yummy.capital>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yummy-Capital/y-cronos-whois/issues"
+  },
+  "homepage": "https://github.com/Yummy-Capital/y-cronos-whois#readme"
+}
